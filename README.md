@@ -139,17 +139,9 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789349917_ColorImages.pdf).
 
-### Related products
-*  Practical C Programming [[Packt]](https://www.packtpub.com/programming/c-programming-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1838641106)
 
 *  Extreme C [[Packt]](https://www.packtpub.com/programming/extreme-c?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789343623)
 
-## Get to Know the Author
-**Jeff Szuhay**
-is the principal developer at QuarterTil2 which specializes in graphics-rich software chronographs for desktop environments. In his software career of over 35 years, he has engaged in the full range of development activities from systems analysis and systems performance tuning to application design, from initial development through full testing and final delivery.
-Throughout that time, he has taught computer applications and programming languages at various educational levels from elementary school students to university students, as well as developed and presented professional, on-site training.
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
 
